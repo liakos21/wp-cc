@@ -1,4 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-Adds a EN/EL WPML - Ready Cookie Consent to the website.
-cookieconsent.min.js library included
+#Adds a EN/EL WPML - Ready Cookie Consent to the website.
+#cookieconsent.min.js library included
